@@ -1,0 +1,12 @@
+输入：
+
+Artificial intelligence is changing the world.
+
+目标语言：
+
+中文
+
+
+输出：
+
+人工智能正在改变世界。
